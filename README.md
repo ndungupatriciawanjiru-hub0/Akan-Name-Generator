@@ -34,8 +34,7 @@ Double-click index.html
 or open it with VS Code → Live Server
  ***Live site***
 You can view the deployed version here:
-🔗 https://your-username.github.io/akan-name-generator/
-(replace with your actual GitHub Pages link after deployment)
+ https://ndungupatriciawanjiru-hub0.github.io/Akan-Name-Generator/
 
 ####  BDD (Behavior Driven Development)
 
